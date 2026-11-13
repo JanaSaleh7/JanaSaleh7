@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Jaanna 👋
 
-<!--
-**JanaSaleh7/JanaSaleh7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <i>Computer Science Student | Learning & Building</i>
+</p>
 
-Here are some ideas to get you started:
+### 🎓 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Computer Science Student at Umm Al-Qura University.
+- ☕ Familiar with Java.
+- 🐍 Currently learning Python.
+- 🧠 Interested in problem solving and logical thinking.
+- 💡 I believe understanding the problem comes before writing the code.
+- 🌱 Always learning and improving, one step at a time.
+
+### 💻 Languages & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+### 🧩 My Philosophy
+
+> Think before you code.
+> Understand before you solve.
+> Progress over perfection.
+
+### 🎯 My Goals
+
+- Strengthen my programming fundamentals.
+- Improve my problem-solving skills.
+- Build practical projects.
+- Explore different areas of Computer Science.
+
+<p align="center">
+  <i>"Every expert was once a beginner."</i> ✨
+</p>
